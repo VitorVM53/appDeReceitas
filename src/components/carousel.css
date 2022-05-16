@@ -1,0 +1,11 @@
+.recommended-container {
+  align-self: center;
+  background-color: bisque;
+  display: flex;
+  flex-flow: row;
+  flex-wrap: nowrap;
+  height: 150px;
+  overflow: hidden;
+  overflow-x: auto;
+  width: 180px;
+}
